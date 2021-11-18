@@ -42,4 +42,8 @@
 ![image](https://user-images.githubusercontent.com/87507926/142217108-f9b148b8-9451-4c50-9513-56d367d90eea.png)
 
 
+# แหล่งข้อมูลอ้างอิง
+-	https://www.youtube.com/watch?v=z7X6jgFnB6Y&t=269s&ab_channel=NTS
+-	https://www.mathworks.com/matlabcentral/answers/435508-how-can-i-get-proper-length-of-fft#answer_352174
+-	https://www.mathworks.com/matlabcentral/answers/491714-units-for-magnitude-after-fast-fourier-transform-fft-is-done
 
